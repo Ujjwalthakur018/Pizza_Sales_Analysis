@@ -3,3 +3,4 @@ This project presents a detailed analysis of pizza sales data from January to De
 
 ![image](https://github.com/Ujjwalthakur018/Pizza_Sales_Analysis/blob/main/Pizza%20palace%20Excel%20dashboard%201.png)
 
+![image](https://github.com/Ujjwalthakur018/Pizza_Sales_Analysis/blob/main/Pizza%20palace%20Excel%20dashboard%202.png)
